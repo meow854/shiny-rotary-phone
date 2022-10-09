@@ -1,0 +1,28 @@
+body {
+    background-image: url("efg.webp");
+    text-align: center;
+}
+
+header {
+    height: 80px;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: -30px;
+}
+
+h5 {
+    color: black;
+}
+
+input {
+    width: 250px;
+}
+
+button {
+    margin-left: 30px;
+}
+
+canvas {
+    border-radius: 20px;
+    margin-top: 200px;
+}
